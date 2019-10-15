@@ -15,7 +15,7 @@ $db = $config->getConnection();
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>Analytic Hierarchy Process</title>
-	<link href="images/favicon.ico" rel="shortcut icon" />
+	<!-- <link href="images/favicon.ico" rel="shortcut icon" /> -->
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/dataTables.bootstrap.min.css" rel="stylesheet">
